@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/smile-32/static/css/main.917b6645.css",
+    "main.js": "/smile-32/static/js/main.873eefb4.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/smile-32/static/js/787.9e9f4ffd.chunk.js",
+    "index.html": "/smile-32/index.html",
+    "main.917b6645.css.map": "/smile-32/static/css/main.917b6645.css.map",
+    "main.873eefb4.js.map": "/smile-32/static/js/main.873eefb4.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/smile-32/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.917b6645.css",
+    "static/js/main.873eefb4.js"
+  ]
+}
